@@ -3,7 +3,7 @@
 int
 main (int argc, char *argv[])
 {
-  GstElement *pipeline;
+
   GstBus *bus;
   GstMessage *msg;
 
